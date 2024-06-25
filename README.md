@@ -20,6 +20,7 @@ AutoStegano is a Bash script designed to automate the process of analyzing image
 - Install `stegsolve` by downloading the JAR file from [here](http://www.caesum.com/handbook/Stegsolve.jar)
 
 ##installation
+'''bash
 - sudo apt-get install -y strings exiftool steghide zsteg outguess binwalk default-jre
 
 ## Usage
